@@ -5,7 +5,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-   background-image: url(back%20moraine.jpg);
+   background-image: url(assests/images/back%20moraine.jpg);
     min-height: 100%; 
     padding-bottom: 30vw;
 }
@@ -14,7 +14,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url(cool.jpg); 
+    background-image: url(assests/images/cool.jpg); s
     min-height: 400px; 
     padding-bottom: 30vw;
     
@@ -24,7 +24,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url(sarrail.JPG);  
+    background-image: url(assests/images/sarrail.JPG);  
     min-height: 400px; 
     padding-bottom: 30vw;
 }
@@ -33,7 +33,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url(calgary.jpg);  
+    background-image: url(assests/images/calgary.jpg);  
     min-height: 400px; 
     padding-bottom: 30vw;
 }
